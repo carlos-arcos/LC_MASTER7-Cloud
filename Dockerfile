@@ -18,5 +18,5 @@ RUN npm install --only=production
 EXPOSE 8888
 
 # Ejecutar la aplicación
-ENTRYPOINT ["npm", "start"]
+CMD ["npm", "start"]
 

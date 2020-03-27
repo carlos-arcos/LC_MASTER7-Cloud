@@ -1,0 +1,10 @@
+- Imagen en docker hub
+hub.docker.com/repository/docker/carc0s/practica
+
+- Url de travis
+https://travis-ci.org/github/carlos-arcos/LC_MASTER7-Cloud
+
+- Url máquina de AWS
+52.47.130.40
+
+
